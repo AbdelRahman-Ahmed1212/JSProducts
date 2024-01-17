@@ -76,159 +76,131 @@
 			"pic": "/smartwatchs/watch_img3.jpg"
 		}
 	],
-	"screens": [
-		{
-			"title": "Samsung 85 Inch 4K UHD Smart LED TV with Built in Receiver ",
-			"price": " 49,999",
-			"pic": "/smartphones/phone_img15.jpg"
-		},
-		{
-			"title": "Samsung 85 Inch 4K UHD Smart LED TV with Built in Receiver ",
-			"price": " 49,999",
-			"pic": "/smartphones/phone_img15.jpg"
-		},
-		{
-			"title": "LG 32 Inch HD Smart LED TV with Built",
-			"price": " 8,189",
-			"pic": "/smartphones/phone_img1.jpg"
-		},
-		{
-			"title": "LG 32 Inch HD Smart LED TV with Built",
-			"price": " 8,189",
-			"pic": "/smartphones/phone_img1.jpg"
-		},
-		{
-			"title": "Samsung Series 9 77 Inch 4K Smart OLED TV with Built",
-			"price": " 89,999",
-			"pic": "/smartphones/phone_img13.jpg"
-		},
-		{
-			"title": "Samsung Series 9 77 Inch 4K Smart OLED TV with Built",
-			"price": " 89,999",
-			"pic": "/smartphones/phone_img13.jpg"
-		},
-		{
-			"title": "LG 77 Inch 4K UHD Smart OLED TV with Built in Receiver",
-			"price": null,
-			"pic": "/smartphones/phone_img14.jpg"
-		},
-		{
-			"title": "LG 77 Inch 4K UHD Smart OLED TV with Built in Receiver",
-			"price": null,
-			"pic": "/smartphones/phone_img14.jpg"
-		},
+	"screens":[
 		{
 			"title": "LG Nanocell 50 Inch Smart TV with Magic Remote",
-			"price": null,
-			"pic": "/smartphones/phone_img12.jpg"
+			"price": "15,499",
+			"pic": "/smartscreens/screen_img12.jpg",
+			"specs": {
+				"screen_size": "50 inches",
+				"resolution": "Nanocell",
+				"smart_feature": true,
+				"built_in_receiver": false
+			}
 		},
 		{
-			"title": "LG Nanocell 50 Inch Smart TV with Magic Remote",
-			"price": null,
-			"pic": "/smartphones/phone_img12.jpg"
-		},
-		{
-			"title": "LG 50 Inch 4K UHD Smart LED TV with Built in Receiver ",
-			"price": " 18,499",
-			"pic": "/smartphones/phone_img11.jpg"
-		},
-		{
-			"title": "LG 50 Inch 4K UHD Smart LED TV with Built in Receiver ",
-			"price": " 18,499",
-			"pic": "/smartphones/phone_img11.jpg"
+			"title": "LG 50 Inch 4K UHD Smart LED TV with Built in Receiver",
+			"price": "18,499",
+			"pic": "/smartscreens/screen_img11.jpg",
+			"specs": {
+				"screen_size": "50 inches",
+				"resolution": "4K UHD",
+				"smart_feature": true,
+				"built_in_receiver": true
+			}
 		},
 		{
 			"title": "LG 75 Inch 4K UHD Smart LED TV with Built",
-			"price": null,
-			"pic": "/smartphones/phone_img10.jpg"
-		},
-		{
-			"title": "LG 75 Inch 4K UHD Smart LED TV with Built",
-			"price": null,
-			"pic": "/smartphones/phone_img10.jpg"
-		},
-		{
-			"title": "LG 65 Inch 4K UHD QNED Smart TV with Built",
-			"price": " 39,899",
-			"pic": "/smartphones/phone_img9.jpg"
+			"price": "22,599",
+			"pic": "/smartscreens/screen_img10.jpg",
+			"specs": {
+				"screen_size": "75 inches",
+				"resolution": "4K UHD",
+				"smart_feature": true,
+				"built_in_receiver": false
+			}
 		},
 		{
 			"title": "LG 65 Inch 4K UHD QNED Smart TV with Built",
-			"price": " 39,899",
-			"pic": "/smartphones/phone_img9.jpg"
+			"price": "39,899",
+			"pic": "/smartscreens/screen_img9.jpg",
+			"specs": {
+				"screen_size": "65 inches",
+				"resolution": "4K UHD QNED",
+				"smart_feature": true,
+				"built_in_receiver": true
+			}
 		},
 		{
 			"title": "LG OLED 55 Inch Smart TV with Magic Remote",
-			"price": " 53,999",
-			"pic": "/smartphones/phone_img8.jpg"
-		},
-		{
-			"title": "LG OLED 55 Inch Smart TV with Magic Remote",
-			"price": " 53,999",
-			"pic": "/smartphones/phone_img8.jpg"
-		},
-		{
-			"title": "LG Nanocell 55 Inch Smart LED TV with Magic Remote",
-			"price": " 24,999",
-			"pic": "/smartphones/phone_img7.jpg"
+			"price": "53,999",
+			"pic": "/smartscreens/screen_img8.jpg",
+			"specs": {
+				"screen_size": "55 inches",
+				"resolution": "OLED",
+				"smart_feature": true,
+				"built_in_receiver": false
+			}
 		},
 		{
 			"title": "LG Nanocell 55 Inch Smart LED TV with Magic Remote",
-			"price": " 24,999",
-			"pic": "/smartphones/phone_img7.jpg"
+			"price": "24,999",
+			"pic": "/smartscreens/screen_img7.jpg",
+			"specs": {
+				"screen_size": "55 inches",
+				"resolution": "Nanocell",
+				"smart_feature": true,
+				"built_in_receiver": false
+			}
 		},
 		{
 			"title": "LG 50 Inch 4K UHD Smart LED TV with Built",
-			"price": " 18,999",
-			"pic": "/smartphones/phone_img6.jpg"
-		},
-		{
-			"title": "LG 50 Inch 4K UHD Smart LED TV with Built",
-			"price": " 18,999",
-			"pic": "/smartphones/phone_img6.jpg"
-		},
-		{
-			"title": "LG 43 Inch 4K UHD Smart LED TV with Built",
-			"price": " 15,399",
-			"pic": "/smartphones/phone_img5.jpg"
+			"price": "18,999",
+			"pic": "/smartscreens/screen_img6.jpg",
+			"specs": {
+				"screen_size": "50 inches",
+				"resolution": "4K UHD",
+				"smart_feature": true,
+				"built_in_receiver": true
+			}
 		},
 		{
 			"title": "LG 43 Inch 4K UHD Smart LED TV with Built",
-			"price": " 15,399",
-			"pic": "/smartphones/phone_img5.jpg"
+			"price": "15,399",
+			"pic": "/smartscreens/screen_img5.jpg",
+			"specs": {
+				"screen_size": "43 inches",
+				"resolution": "4K UHD",
+				"smart_feature": true,
+				"built_in_receiver": true
+			}
 		},
 		{
-			"title": "LG UQ7500 Series, 55 Inch 4K UHD Smart LED TV With Built in Receiver ",
-			"price": " 21,499",
-			"pic": "/smartphones/phone_img4.jpg"
+			"title": "LG UQ7500 Series, 55 Inch 4K UHD Smart LED TV With Built in Receiver",
+			"price": "21,499",
+			"pic": "/smartscreens/screen_img4.jpg",
+			"specs": {
+				"screen_size": "55 inches",
+				"resolution": "4K UHD",
+				"smart_feature": true,
+				"built_in_receiver": true
+			}
 		},
 		{
-			"title": "LG UQ7500 Series, 55 Inch 4K UHD Smart LED TV With Built in Receiver ",
-			"price": " 21,499",
-			"pic": "/smartphones/phone_img4.jpg"
-		},
-		{
-			"title": "LG 32 Inch FHD Smart LED TV ",
-			"price": " 8,499",
-			"pic": "/smartphones/phone_img3.jpg"
-		},
-		{
-			"title": "LG 32 Inch FHD Smart LED TV ",
-			"price": " 8,499",
-			"pic": "/smartphones/phone_img3.jpg"
+			"title": "LG 32 Inch FHD Smart LED TV",
+			"price": "8,499",
+			"pic": "/smartscreens/screen_img3.jpg",
+			"specs": {
+				"screen_size": "32 inches",
+				"resolution": "FHD",
+				"smart_feature": true,
+				"built_in_receiver": false
+			}
 		},
 		{
 			"title": "LG 55 Inch 4K UHD Smart LED TV with Built",
-			"price": " 21,499",
-			"pic": "/smartphones/phone_img2.jpg"
-		},
-		{
-			"title": "LG 55 Inch 4K UHD Smart LED TV with Built",
-			"price": " 21,499",
-			"pic": "/smartphones/phone_img2.jpg"
+			"price": "21,499",
+			"pic": "/smartscreens/screen_img2.jpg",
+			"specs": {
+				"screen_size": "55 inches",
+				"resolution": "4K UHD",
+				"smart_feature": true,
+				"built_in_receiver": true
+			}
 		}
-	],
-	"laptops": [
+	]
+	
+,"laptops": [
 		{
 			"title": "HP X360 ProBook 2018 Premium Laptop",
 			"price": " 11,000",
@@ -577,35 +549,5 @@
 			},
 			"pic": "/laptops/lap_img2.jpg"
 		}
-	],
-	"Transform": "AWS::Serverless-2016-10-31",
-	"Resources": {
-		"Api": {
-			"Type": "AWS::Serverless::Api",
-			"Properties": {
-				"Name": {
-					"Fn::Sub": [
-						"${ResourceName} From Stack ${AWS::StackName}",
-						{
-							"ResourceName": "Api"
-						}
-					]
-				},
-				"StageName": "Prod",
-				"DefinitionBody": {
-					"openapi": "3.0",
-					"info": {},
-					"paths": {
-						"/": {
-							"get": {
-								"responses": {}
-							}
-						}
-					}
-				},
-				"EndpointConfiguration": "REGIONAL",
-				"TracingEnabled": true
-			}
-		}
-	}
-}
+	]}
+	
